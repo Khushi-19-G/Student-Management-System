@@ -22,6 +22,8 @@ User will be asked to enter the username and password to operate the project for
 Username = Admin
 Password = Admin123
 
+<img src="login page.png">
+
 
 
 
