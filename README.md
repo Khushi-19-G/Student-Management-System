@@ -5,15 +5,15 @@ Linked list is used as DSA implementation to store records of students. User can
 
 It contains 4 classes namely:
 
-##STUDENT CLASS: Manages all the operations of students.
+## STUDENT CLASS: Manages all the operations of students.
 
-##ADD CLASS: Manages all the operations of adding the students.
+## ADD CLASS: Manages all the operations of adding the students.
 
-##REGISTER CLASS: Manages the CRUD operations (ADD, DELETE, SEARCH, UPDATE, DISPLAY ALL, Exit).
+## REGISTER CLASS: Manages the CRUD operations (ADD, DELETE, SEARCH, UPDATE, DISPLAY ALL, Exit).
 
-##DISPLAY CLASS: Manages the operation of displaying students.
+## DISPLAY CLASS: Manages the operation of displaying students.
 
-##PROJECT STARTS WITH:
+## PROJECT STARTS WITH:
 
 ##LOGIN FROM:
 
