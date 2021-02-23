@@ -23,26 +23,26 @@ User will be asked to enter the username and password to operate the project for
 
 **Password = Admin123**
 
-<img src="login page.png">
+<img src="login page.png"  width="350" height="300">
 
 If given correct login credentials, user will be moved on to the registration page which contains CRUD operation buttons.
 
 ## Registeration form:
 
-<img src="registeration page.png">
+<img src="registeration page.png"  width="350" height="300">
 
 If pressed **“Add”**, there is a form for adding students where user is requied to provide personal as well as academic details.
 
 ## Add student form:
 
-<img src="add student page.png">
+<img src="add student page.png"  width="350" height="300">
 
 Courses have been saved and will be printed according to user’s chosen program and department.
 **“ADD BUTTON”** is used for adding the student’s information while **“SUBMIT BUTTON”** is used to redirect to registration page.
 
 Then if user wishes to **delete, search or update** any student, he can press the button and provide the ID of that certain student to perform that operation.
 
-<img src="CRUD operation.png">
+<img src="CRUD operation.png"  width="350" height="300">
 
 To display or to view the student’s record that has been added, user can press display button and will be moved on to display from.
 
@@ -50,7 +50,7 @@ To display or to view the student’s record that has been added, user can press
 
 Text area has been used for printing student’s data, Display Button is used to display students and return button is for redirecting to the registration page.
 
-<img src="display page.png"  width="300" height="300">
+<img src="display page.png"  width="350" height="300">
 
 
 
