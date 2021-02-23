@@ -20,6 +20,7 @@ It contains 4 classes namely:
 User will be asked to enter the username and password to operate the project for which specific username and password is set for user to input.
 
 **Username = Admin**
+
 **Password = Admin123**
 
 <img src="login page.png">
@@ -49,7 +50,7 @@ To display or to view the student’s record that has been added, user can press
 
 Text area has been used for printing student’s data, Display Button is used to display students and return button is for redirecting to the registration page.
 
-<img src="display page.png">
+<img src="display page.png"  width="300" height="300">
 
 
 
