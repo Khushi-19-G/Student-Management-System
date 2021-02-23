@@ -25,7 +25,7 @@ User will be asked to enter the username and password to operate the project for
 
 <img src="login page.png"  width="350" height="300">
 
-If given correct login credentials, user will be moved on to the registration page which contains CRUD operation buttons.
+If given correct login credentials, user will be moved on to the **registration page** which contains CRUD operation buttons.
 
 ## Registeration form:
 
@@ -44,11 +44,11 @@ Then if user wishes to **delete, search or update** any student, he can press th
 
 <img src="CRUD operation.png"  width="350" height="300">
 
-To display or to view the student’s record that has been added, user can press display button and will be moved on to display from.
+To display or to view the student’s record that has been added, user can press **display button** and will be moved on to display from.
 
 ## Display form:
 
-Text area has been used for printing student’s data, Display Button is used to display students and return button is for redirecting to the registration page.
+**Text area** has been used for printing student’s data,**Display Button** is used to display students and **return button** is for redirecting to the registration page.
 
 <img src="display page.png"  width="350" height="300">
 
